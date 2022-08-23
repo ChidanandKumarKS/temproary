@@ -1,0 +1,4 @@
+tk
+opencv-contrib-python
+pyinstaller
+pillow
